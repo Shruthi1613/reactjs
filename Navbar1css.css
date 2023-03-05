@@ -1,0 +1,39 @@
+.naviBar {
+    background-color:rgb(158, 160, 160);
+    display: flex;
+    height: 90px;
+    align-items:center;
+    justify-content:space-between;
+    margin:auto;
+    color: rgb(255,255,255);
+}
+ .Menbar ul {
+    display: flex;
+    width:600px;
+    justify-content: space-between;
+    align-items: center;
+ }
+
+ .Menbar ul li a {
+    text-decoration: none;
+    color: black;
+    align-items: center;
+    justify-content: space-between;
+ }
+
+ .Menbar ul li {
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+ }
+
+ img{
+    height:95px;
+    width:300px;
+}
+.Menbar
+{
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+}
