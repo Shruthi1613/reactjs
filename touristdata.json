@@ -1,0 +1,99 @@
+[
+    {
+        "touristplace":"Taj Mahal",
+        "Country":"India",
+        "State":"Uttar Pradesh",  
+        "BuildBy":"Shah Jahan",
+        "Color":"White",
+        "photo":"https://tse3.mm.bing.net/th?id=OIP.np_XlysSHY3OKZsPyMUDxAHaFD&pid=Api&P=0"
+},
+
+{
+       "photo":"https://tse4.mm.bing.net/th?id=OIP._yxQME67r05jJ9ZVf-ZhXwHaFj&pid=Api&P=0",
+       "touristplace":"Statue of Liberty",
+       "Country":"USA",
+       "State":"New York",
+       "BuildBy":"Richard Morris",
+       "Color":"BLUE"
+},
+{
+    "photo":"https://tse1.mm.bing.net/th?id=OIP.znmXxrWagSmqB3Tfq5BkNQHaE8&pid=Api&P=0",
+    "touristplace":"Elizabeth Tower",
+    "Country":"England",
+    "State":"London",
+    "BuildBy":"Augustus Pugin",
+    "Color":"Gold"
+},
+{
+    "photo":"https://tse2.mm.bing.net/th?id=OIP.ZWSDAZ7ti31tTY6phZtV7AHaEs&pid=Api&P=0",
+    "touristplace":"The Sydney Opera House",
+    "Country":"Australia",
+    "State":"Sydney",
+    "BuildBy":"Peter Hall",
+     "Color":"White"
+},
+{
+    "photo":"https://www.alpineascents.com/wp-content/uploads/2016/07/matterhorn1.jpg",
+    "touristplace":"Matterhorn",
+    "Country":"Switzerland",
+    "State":"Valais",
+    "BuildBy":"Mountain",
+    "Color":"Black and White"
+},
+{
+    "photo":"https://tse3.mm.bing.net/th?id=OIP.BRiLTRcdck3ajiZUeg-2kQHaEo&pid=Api&P=0",
+    "touristplace":"Buckingham Palace",
+    "Country":"England",
+    "State":"London",
+    "BuildBy":"John Fitch",
+    "Color":"White"
+},
+{
+    "photo":"https://tse2.mm.bing.net/th?id=OIP.2AcWajPPtpEbmOQENsL4ggHaE7&pid=Api&P=0",
+    "touristplace":"Disney Park",
+    "Country":"USA",
+    "State":"Anaheim",
+    "BuildBy":"The Walt Disney Company",
+    "Color":"Blue and White"
+},
+{
+    "photo":"https://tse2.mm.bing.net/th?id=OIP.dDCoKpuYf3VFwA0gHvzR2AHaEc&pid=Api&P=0",
+    "touristplace":"Christ the Redeemer",
+    "Country":"Brazil",
+    "State":"Rio De Janeiro",
+    "BuildBy":"Heitor da Silva Costa",
+    "Color":"Grey"
+},
+{
+    "photo":"https://tse1.mm.bing.net/th?id=OIP.suOD7J-66clRxFryGHi4VAHaEn&pid=Api&P=0",
+    "touristplace":"The Grand Canyon",
+    "Country":"USA",
+    "State":"Arizona",
+    "BuildBy":"Mountain",
+    "Color":"Brown"
+},
+{
+    "photo":"https://tse4.mm.bing.net/th?id=OIP.PSjX0oRzRiy8EokvYeHUyAHaDp&pid=Api&P=0",
+    "touristplace":"The Shwedadong",
+    "Country":"Myanmar",
+    "State":"Yangon",
+    "BuildBy":"Temple",
+    "Color":"Gold"
+},
+ {
+    "photo":"https://www.viajerosporelmundo.com/wp-content/uploads/2019/12/que-ver-en-san-francisco-golden-gate-portada.jpg",
+    "touristplace":"The Golden Gate",
+    "Country":"USA",
+    "State":"San Francisco",
+    "BuildBy":"Irving Morrow",
+    "Color":"Red"
+ },
+ {
+    "photo":"https://tse2.mm.bing.net/th?id=OIP.6loOqtsbBDEzNWHTtFiYDQHaEh&pid=Api&P=0",
+    "touristplace":"Mount Everest",
+    "Country":"Nepal",
+    "State":"Solukhumbu District",
+    "BuildBy":"Mountain",
+    "Color":"Black and White"
+ }
+]
