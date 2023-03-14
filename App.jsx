@@ -1,15 +1,14 @@
 import React from 'react'
-import JSON from './touristdata.json'
-import Place from './Place';
-import "./global1.css"
+import Course from './Course'
+
 
 const App = () => {
   return (
-    <>
-    <div>
-     <Place data={JSON}/>
-     </div>
-   </>
+    <Course Coursedetails={{
+      CourseName:"Java Full Stack",
+      CourseAvail:true,
+      CourseDur:"6 Months"
+    }}/>
   )
 }
 
